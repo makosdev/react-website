@@ -30,3 +30,6 @@ Before running the website, make sure you have the following installed:
 
 
 # That's it! With these steps, you should be able to get started with coding in React.
+
+# Video Tutorial: 
+- - [Youtube Channel](https://www.youtube.com/channel/UCOdfRndfPV2UWrAqnx_sWbA)
