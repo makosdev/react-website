@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   const openYoutube = () => {
-    window.open("https://www.youtube.com/", "_blank");
+    window.open("https://www.youtube.com/channel/UCOdfRndfPV2UWrAqnx_sWbA", "_blank");
   };
 
   return (
